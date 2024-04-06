@@ -59,9 +59,10 @@ body {
 }
 
 .view {
+  background-color: white;
   font-family: "Karla";
   font-size: medium;
-  border: none;
+  border: 2px solid black;
   padding-left: 28px;
   padding-right: 28px;
   padding-top: 13px;
