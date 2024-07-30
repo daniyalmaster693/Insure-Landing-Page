@@ -8,7 +8,7 @@ A basic HTML, CSS challenge from Frontend Mentor. This is the solution to the ch
 <h2> Links </h2>
 
 <li> Link to solution: https://www.frontendmentor.io/solutions/insure-landing-page-solution-_ExGc9p5rd </li>
-<li> Link to live demo: https://blaze4884.github.io/Insure-Landing-Page/ </li>
+<li> Link to live demo: https://daniyalmaster693-insure-landing-page.vercel.app </li>
 
 <h2> What have I learned </h2>
 
